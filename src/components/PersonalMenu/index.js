@@ -14,7 +14,6 @@ import AccountTreeIcon from "@material-ui/icons/AccountTree";
 import BookmarksIcon from "@material-ui/icons/Bookmarks";
 import SettingsIcon from "@material-ui/icons/Settings";
 import SettingsInputAntennaIcon from "@material-ui/icons/SettingsInputAntenna";
-import EmojiPeopleIcon from "@material-ui/icons/EmojiPeople";
 
 export default function PersonalMenu() {
   return (
